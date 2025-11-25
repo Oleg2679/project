@@ -1,0 +1,41 @@
+```
+# Dependencies
+node_modules/
+# Editors
+.vscode/
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+# Environment
+.env
+.env.local
+.env.*
+# Build artifacts
+dist/
+build/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+# Archives
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+# OS generated files
+.DS_Store
+Thumbs.db
+```
