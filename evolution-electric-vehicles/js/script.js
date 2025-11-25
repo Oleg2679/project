@@ -1,6 +1,9 @@
 // JavaScript для интерактивных элементов сайта
 
 document.addEventListener('DOMContentLoaded', function() {
+    // Убедимся, что страница открывается в начале при загрузке
+    window.scrollTo(0, 0);
+    
     // Плавный скролл для навигации
     const navLinks = document.querySelectorAll('nav a');
     
